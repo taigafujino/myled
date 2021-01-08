@@ -5,11 +5,11 @@
 ロボットシステム学の授業で作成したものを改変
 
 # 必要機材
-・Raspberry Pi4 Computer Model B 
-・LED ×2
-・ブレッドボード
-・抵抗器　220Ω　×2
-・ジャンパー線　×3
+ ・Raspberry Pi4 Computer Model B 
+ ・LED ×2
+ ・ブレッドボード
+ ・抵抗器　220Ω　×2
+ ・ジャンパー線　×3
 
 # 動作方法
 make
